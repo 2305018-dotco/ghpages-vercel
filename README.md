@@ -1,6 +1,5 @@
-Q3) analysis , Evaluate
-VM => mysql: create database , create table , insert into , select * 
-‘Host machine => create a form -> index.html & upload it on github , deploy it using vercel ( git commands ) 
+
+
 1.	Create folder in C : ghpages-vercel
 2.	Open in vs code
 3.	Create file index.html
